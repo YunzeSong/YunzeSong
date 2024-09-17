@@ -3,7 +3,7 @@
 
 ### About ME
 
-#### 🙇‍♂️ I'm a rookie, cramming Machine Learning and Artificial Intelligence knowledge like there's no tomorrow.
+#### 🙇‍♂️ I'm a rookie, cramming Machine Learning knowledge like there's no tomorrow.
 
 #### 🥷 Right now, I'm laser-focused on Natural Language Processing, especially in research on evaluating large models.
 
